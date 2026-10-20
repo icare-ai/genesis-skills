@@ -8,6 +8,7 @@ Reusable AI / agentic "**skills**" for the safe development of frontier AI/ML mo
 ├── ai-fingerprint
 ├── battleprint
 ├── fingerprinting
+├── human-gate
 ├── uncertainty-quantification
 └── uq-metrics-evaluator
 ```
@@ -40,3 +41,4 @@ The ModCon BaseSafe Team:
 | Olivera Kotevska  | ORNL          |
 | Reilly Raab       | PNNL          |
 | Malachi Schram    | PNNL          |
+| Steve Shoemaker   | Menschee LLC  |
